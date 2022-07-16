@@ -4,7 +4,7 @@
 
 ### Albums and EPs
 
-[![Rose and the Briar King](./assets/images/album_art/Rose_and_the_Briar_King.png)](https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king)
+[![Rose and the Briar King](./assets/images/album_art/Rose_and_the_Briar_King.png#defaultsize)](https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king)
 
 [![Galactic Gazette](./assets/images/album_art/Galactic_Gazette.png#defaultsize)](https://distrokid.com/hyperfollow/finnmayhew/galactic-gazette-original-game-soundtrack)
 
