@@ -2,7 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-img[src*='#defaultsize'] {
+img[src*='#default'] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 300px;
     width: 300px;
 }
