@@ -1,4 +1,4 @@
-# Finn's Links
+<center> <h1> Finn's Links </h1> </center>
 
 ## Music
 
