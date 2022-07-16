@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-img[src*='#albumart'] {
+img[src*='#defaultsize'] {
     height: 200px;
     width: 200px;
 }
