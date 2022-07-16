@@ -1,11 +1,5 @@
 # Finn's Links
 
-## Socials
-
-[Twitter](https://twitter.com/Finn_Mayhew)
-
-[Instagram](https://www.instagram.com/finnmayhew_/)
-
 ## Music
 
 ### Albums and EPs
