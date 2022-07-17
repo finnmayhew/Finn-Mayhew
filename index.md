@@ -4,6 +4,36 @@
 
 ### Albums and EPs
 
+<div class=”display-grid”>
+<div class=”grid-item”>
+<img src=”./assets/images/album_art/Rose_and_the_Briar_King.png” alt=”Rose and the Briar King”>
+</div>
+<div class=”grid-item”>
+<img src=”./assets/images/album_art/Galactic_Gazette.png” alt=”Galactic Gazette”>
+</div>
+<div class=”grid-item”>
+<img src=”./assets/images/album_art/Dribble_Castle.png” alt=”Dribble Castle”>
+</div>
+<div class=”grid-item”>
+<img src=”./assets/images/album_art/Come_Home.jpeg” alt=”Come Home”>
+</div>
+<div class=”grid-item”>
+<img src=”./assets/images/album_art/Unlikely_Escapes.jpg” alt=”Unlikely Escapes”>
+</div>
+<div class=”grid-item”>
+<img src=”./assets/images/album_art/Season_Five.png” alt=”Season Five”>
+</div>
+<div class=”grid-item”>
+<img src=”./assets/images/album_art/Camping.jpg” alt=”Camping”>
+</div>
+<div class=”grid-item”>
+<img src=”./assets/images/album_art/Shift.png” alt=”Shift”>
+</div>
+<div class=”grid-item”>
+<img src=”./assets/images/album_art/Return.png” alt=”Return”>
+</div>
+</div>
+
 [![Rose and the Briar King](./assets/images/album_art/Rose_and_the_Briar_King.png#default)](https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king)
 
 [![Galactic Gazette](./assets/images/album_art/Galactic_Gazette.png#default)](https://distrokid.com/hyperfollow/finnmayhew/galactic-gazette-original-game-soundtrack)
