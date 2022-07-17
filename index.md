@@ -1,5 +1,9 @@
 <center> <h1> Finn's Links </h1> </center>
 
+## Socials
+
+[![Twitter](./assets/images/icons/twitter.png#icon)](https://twitter.com/Finn_Mayhew) [![Instagram](./assets/images/icons/instagram.png#icon)](https://www.instagram.com/finnmayhew_/)
+
 ## Music
 
 ### Albums and EPs

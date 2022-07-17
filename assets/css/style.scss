@@ -19,6 +19,13 @@ body {
 a {
     color: cyan;
 }
+img[src*='#icon'] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+}
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
