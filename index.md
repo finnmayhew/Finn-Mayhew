@@ -4,6 +4,7 @@
 
 ### Albums and EPs
 
+<html>
 <div class=”display-grid”>
 <div class=”grid-item”>
 <img src=”./assets/images/album_art/Rose_and_the_Briar_King.png” alt=”Rose and the Briar King”>
@@ -33,6 +34,7 @@
 <img src=”./assets/images/album_art/Return.png” alt=”Return”>
 </div>
 </div>
+</html>
 
 [![Rose and the Briar King](./assets/images/album_art/Rose_and_the_Briar_King.png#default)](https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king)
 
