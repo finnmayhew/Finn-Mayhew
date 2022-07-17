@@ -18,8 +18,8 @@
 }
 </style>
 <main class="grid">
-  <img src="/assets/images/album_art/Rose_and_the_Briar_King.png" alt="Rose and the Briar King">
-  <img src="/assets/images/album_art/Galactic_Gazette.png" alt="Galactic Gazette">
+  <img src="./assets/images/album_art/Rose_and_the_Briar_King.png" alt="Rose and the Briar King">
+  <img src="./assets/images/album_art/Galactic_Gazette.png" alt="Galactic Gazette">
 </main>
 
 [![Rose and the Briar King](./assets/images/album_art/Rose_and_the_Briar_King.png#default)](https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king)
