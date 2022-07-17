@@ -2,13 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-img[src*='#default'] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 300px;
-    width: 300px;
-}
 .main-content {
     h1,
     h2,
