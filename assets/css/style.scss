@@ -15,9 +15,9 @@
 body {
     color: white;
     background-color: black;
-    background: url(“./assets/images/background.png”) top right no-repeat;
+    background: url(“/assets/images/background.png”) top right no-repeat;
     background-attachment: fixed;
-    background-size: 100%;
+    background-size: cover;
 }
 a {
     color: cyan;
