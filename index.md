@@ -84,9 +84,14 @@ My friend Joe and I used to make a podcast about media we enjoy called [Fools an
 
 ## Text-based games
 
-[![Shift](./assets/images/game_art/shift.webp)](https://devilskettle.wixsite.com/games/shift)
-
-[![Return](./assets/images/game_art/return.webp)](https://devilskettle.wixsite.com/games/return)
+<main class="grid">
+  <a href="https://devilskettle.wixsite.com/games/shift">
+    <img src="./assets/images/game_art/shift.webp" alt="Shift">
+  </a>
+  <a href="https://devilskettle.wixsite.com/games/return">
+    <img src="./assets/images/game_art/return.webp" alt="Return">
+  </a>
+</main>
 
 ## Minecraft maps
 
