@@ -19,3 +19,12 @@ body {
 a {
     color: cyan;
 }
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    // grid-gap: 20px;
+    align-items: stretch;
+    }
+.grid img {
+    max-width: 100%;
+}
