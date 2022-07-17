@@ -4,6 +4,24 @@
 
 ### Albums and EPs
 
+<style>
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 20px;
+  align-items: stretch;
+  }
+.grid img {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  max-width: 100%;
+}
+</style>
+<main class="grid">
+  <img src="/assets/images/album_art/Rose_and_the_Briar_King.png" alt="Rose and the Briar King">
+  <img src="/assets/images/album_art/Galactic_Gazette.png" alt="Galactic Gazette">
+</main>
+
 [![Rose and the Briar King](./assets/images/album_art/Rose_and_the_Briar_King.png#default)](https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king)
 
 [![Galactic Gazette](./assets/images/album_art/Galactic_Gazette.png#default)](https://distrokid.com/hyperfollow/finnmayhew/galactic-gazette-original-game-soundtrack)
