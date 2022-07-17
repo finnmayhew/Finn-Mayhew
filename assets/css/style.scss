@@ -19,13 +19,6 @@ body {
 a {
     color: cyan;
 }
-img[src*='#icon'] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 100px;
-    width: 100px;
-}
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -33,5 +26,14 @@ img[src*='#icon'] {
     align-items: stretch;
     }
 .grid img {
+    max-width: 100%;
+}
+.icongrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 500px));
+    grid-gap: 20px;
+    align-items: stretch;
+    }
+.icongrid img {
     max-width: 100%;
 }
