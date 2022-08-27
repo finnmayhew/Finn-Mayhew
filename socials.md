@@ -6,3 +6,7 @@
     <img src="./assets/images/icons/instagram.png" alt="Instagram">
   </a>
 </main>
+
+---
+
+[back](./index.md)
