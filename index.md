@@ -1,5 +1,3 @@
-<center> <h1> Finn's Links </h1> </center>
-
 <main class="grid">
   <a href="./socials.html">
     <img src="./assets/images/icons/socials.png" alt="Socials">
