@@ -2,7 +2,7 @@
 
 My main channel is [CosmosSurfer](https://www.youtube.com/user/CosmosSurfer), though I rarely use it now.
 
-My very-occasionally active channel with my cousins is [The FDA](https://www.youtube.com/channel/UCHeY1Kl8McHo4t0XDGarjXw). Of note is our 11-year-long show [The Lake Anna Adventure](https://www.youtube.com/playlist?list=PLFzLTsl90mSeENZSXNPlrUGsAtglbUBq9).
+My very-occasionally-active channel with my cousins is [The FDA](https://www.youtube.com/channel/UCHeY1Kl8McHo4t0XDGarjXw). Of note is our 11-year-long show [The Lake Anna Adventure](https://www.youtube.com/playlist?list=PLFzLTsl90mSeENZSXNPlrUGsAtglbUBq9).
 
 I once had a collab channel with my friend Kadian called [BlueJacketPictures](https://www.youtube.com/user/BlueJacketPictures).
 
