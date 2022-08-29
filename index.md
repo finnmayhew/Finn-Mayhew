@@ -1,7 +1,3 @@
-<div id="bg">
-  <img src="assets/images/bg.png" id="bg" alt="">
-</div>
-
 <main class="grid">
   <a href="./music.html">
     <img src="./assets/images/icons/music.png" alt="Music">
