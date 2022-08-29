@@ -1,2 +1,1 @@
 theme: jekyll-theme-cayman
-background: url(’{{ site.baseurl }}/assets/images/STScI-01G8GZJC3HYRHKABTQZAJFHB6P.png.jpg’)

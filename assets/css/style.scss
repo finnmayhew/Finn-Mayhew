@@ -38,3 +38,20 @@ a {
 .icongrid img {
     max-width: 100%;
 }
+
+body, html {
+    height: 100%;
+}
+
+.bg {
+/* The image used */
+background-image: url("/assets/images/STScI-01G8GZJC3HYRHKABTQZAJFHB6P.png");
+
+/* Full height */
+height: 100%;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
