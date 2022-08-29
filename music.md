@@ -1,3 +1,5 @@
+# Music
+
 ## Albums and EPs
 
 <main class="grid">
