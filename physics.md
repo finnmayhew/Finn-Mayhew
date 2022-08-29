@@ -1,5 +1,9 @@
 ## IceCube
 
+![The IceCube Lab](https://icecube.wisc.edu/wp-content/uploads/galleries/Landscapes/gal_Landscapes_icl_moonlight_RGB.jpg)
+
+(photo credit: Emanuel Jacobi, IceCube/NSF)
+
 For my PhD at Michigan State University, I'm working with MSU's IceCube group under Dr. Claudio Kopper.
 
 IceCube is both a telescope and a detector. As a telescope, it uses neutrinos (instead of light) to see very high-energy happenings very far away. As a detector, it allows the collaboration to study the fundamental properties of neutrinos themselves, such as their oscillation parameters.
@@ -7,6 +11,10 @@ IceCube is both a telescope and a detector. As a telescope, it uses neutrinos (i
 Learn more [here](https://icecube.wisc.edu/).
 
 ## NOνA
+
+![Wilson Hall](https://mod.fnal.gov/mod/stillphotos/2013/0100/13-0146-02D.jpg)
+
+(photo credit: Reidar Hahn, Fermilab Creative Services)
 
 As an undergrad at William & Mary, I worked with W&M's NOνA group under Dr. Patricia Vahle.
 
