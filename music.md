@@ -4,7 +4,7 @@
 
 <main class="grid">
   <a href="https://distrokid.com/hyperfollow/finnmayhew/the-revelation-mission-original-game-soundtrack">
-    <img src="./assets/images/album_art/The_Revelation_Mission.png" alt="The Revelation Mission">
+    <img src="./assets/images/album_art/The_Revelation_Mission.jpg" alt="The Revelation Mission">
   </a>
   <a href="https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king">
     <img src="./assets/images/album_art/Rose_and_the_Briar_King.png" alt="Rose and the Briar King">
