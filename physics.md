@@ -8,7 +8,7 @@
 
 *Photo credit: Emanuel Jacobi, IceCube/NSF*
 
-For my PhD at Michigan State University, I'm working with MSU's IceCube group under Dr. Claudio Kopper.
+For my PhD at Michigan State University, I'm working with MSU's IceCube group under Dr. Ty DeYoung.
 
 IceCube is both a telescope and a detector. As a telescope, it uses neutrinos (instead of light) to see very high-energy happenings very far away. As a detector, it allows the collaboration to study the fundamental properties of neutrinos themselves, such as their oscillation parameters.
 
