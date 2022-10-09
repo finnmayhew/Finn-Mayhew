@@ -1,5 +1,7 @@
 # Physics
 
+[My CV](https://docs.google.com/document/d/1Ekwl4zlo61PEWNAkHg4Z_UHrUCUksU6x802-lmyozyw/edit?usp=sharing)
+
 ## IceCube
 
 ![The IceCube Lab](https://icecube.wisc.edu/wp-content/uploads/galleries/Landscapes/gal_Landscapes_icl_moonlight_RGB.jpg)
