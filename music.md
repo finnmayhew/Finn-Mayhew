@@ -3,14 +3,8 @@
 ## Albums and EPs
 
 <main class="grid">
-  <a href="https://distrokid.com/hyperfollow/finnmayhew/the-revelation-mission-original-game-soundtrack">
-    <img src="./assets/images/album_art/The_Revelation_Mission.jpg" alt="The Revelation Mission">
-  </a>
   <a href="https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king">
     <img src="./assets/images/album_art/Rose_and_the_Briar_King.png" alt="Rose and the Briar King">
-  </a>
-  <a href="https://distrokid.com/hyperfollow/finnmayhew/galactic-gazette-original-game-soundtrack">
-    <img src="./assets/images/album_art/Galactic_Gazette.png" alt="Galactic Gazette">
   </a>
   <a href="https://distrokid.com/hyperfollow/finnmayhew/dribble-castle">
     <img src="./assets/images/album_art/Dribble_Castle.png" alt="Dribble Castle">
@@ -21,11 +15,22 @@
   <a href="https://distrokid.com/hyperfollow/finnmayhew/unlikely-escapes">
     <img src="./assets/images/album_art/Unlikely_Escapes.jpg" alt="Unlikely Escapes">
   </a>
-  <a href="https://distrokid.com/hyperfollow/finnmayhew/season-five-original-game-soundtrack">
-    <img src="./assets/images/album_art/Season_Five.png" alt="Season Five">
-  </a>
   <a href="https://distrokid.com/hyperfollow/finnmayhew/camping">
     <img src="./assets/images/album_art/Camping.jpg" alt="Camping">
+  </a>
+</main>
+
+## Soundtracks
+
+<main class="grid">
+  <a href="https://distrokid.com/hyperfollow/finnmayhew/the-revelation-mission-original-game-soundtrack">
+    <img src="./assets/images/album_art/The_Revelation_Mission.jpg" alt="The Revelation Mission">
+  </a>
+  <a href="https://distrokid.com/hyperfollow/finnmayhew/galactic-gazette-original-game-soundtrack">
+    <img src="./assets/images/album_art/Galactic_Gazette.png" alt="Galactic Gazette">
+  </a>
+  <a href="https://distrokid.com/hyperfollow/finnmayhew/season-five-original-game-soundtrack">
+    <img src="./assets/images/album_art/Season_Five.png" alt="Season Five">
   </a>
   <a href="https://distrokid.com/hyperfollow/finnmayhew/shift-original-game-soundtrack-2">
     <img src="./assets/images/album_art/Shift.png" alt="Shift">
