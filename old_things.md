@@ -38,7 +38,3 @@ Way back in the day I made Minecraft maps. Here are some of the ones I published
 [A capture-the-flag PVP game](https://www.planetminecraft.com/project/capture-the-flag-pvp-18/)
 
 [A navigation-based puzzle map](https://www.planetminecraft.com/project/another-one-of-those-non-euclidean-puzzle-maps/)
-
----
-
-[back](./index.md)

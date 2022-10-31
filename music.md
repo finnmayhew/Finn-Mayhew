@@ -69,7 +69,3 @@
 ## Other places
 
 I have other music on [SoundCloud](https://soundcloud.com/finn_mayhew) and at this [YouTube playlist](https://youtube.com/playlist?list=PLQYp802x2h5lnPGwxipS3Gde2eYam1sCW).
-
----
-
-[back](./index.md)

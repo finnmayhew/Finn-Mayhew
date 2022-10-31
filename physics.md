@@ -25,7 +25,3 @@ As an undergrad at William & Mary, I worked with W&M's NOνA group under Dr. Pat
 NOνA is also a neutrino experiment, except instead of looking at neutrinos from space or Earth's atmosphere, it produces its own neutrinos and shoots them through the Earth to a detector, also with the aim of studying their fundamental properties.
 
 Learn more [here](https://novaexperiment.fnal.gov/).
-
----
-
-[back](./index.md)

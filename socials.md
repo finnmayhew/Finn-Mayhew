@@ -11,7 +11,3 @@
     <img src="./assets/images/icons/mastodon.png" alt="Mastodon">
   </a>
 </main>
-
----
-
-[back](./index.md)
