@@ -5,10 +5,19 @@
   <a href="./physics.html">
     <img src="./assets/images/icons/physics.png" alt="Physics">
   </a>
-  <a href="./socials.html">
-    <img src="./assets/images/icons/socials.png" alt="Socials">
-  </a>
   <a href="./old_things.html">
     <img src="./assets/images/icons/old_things.png" alt="Old Things">
+  </a>
+</main>
+
+<main class="icongrid">
+  <a href="https://twitter.com/Finn_Mayhew">
+    <img src="./assets/images/icons/twitter.png" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/finnmayhew_/">
+    <img src="./assets/images/icons/instagram.png" alt="Instagram">
+  </a>
+  <a href="https://mastodon.social/@finnmayhew">
+    <img src="./assets/images/icons/mastodon.png" alt="Mastodon">
   </a>
 </main>
