@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
 .main-content {
     h1,
     h2,
@@ -20,6 +25,12 @@ body {
 a {
     color: cyan;
 }
+.box-1{
+    width: 120px;
+    height: 120px;
+    background-color: skyblue;
+    border: 2px solid black;
+}
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -30,13 +41,11 @@ a {
     max-width: 100%;
 }
 .icongrid {
-    position: relative;
-    left: 50%;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(75px, 75px));
     grid-gap: 20px;
     align-items: stretch;
-    transform: translate(-50%, 0%);
+    justify-content: center;
 }
 .icongrid img {
     max-width: 100%;
