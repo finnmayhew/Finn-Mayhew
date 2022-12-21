@@ -30,6 +30,7 @@ a {
     max-width: 100%;
 }
 .icongrid {
+    left: 50%;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(75px, 75px));
     grid-gap: 20px;
