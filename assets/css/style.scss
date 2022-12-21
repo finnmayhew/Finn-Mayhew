@@ -25,12 +25,6 @@ body {
 a {
     color: cyan;
 }
-.box-1{
-    width: 120px;
-    height: 120px;
-    background-color: skyblue;
-    border: 2px solid black;
-}
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
