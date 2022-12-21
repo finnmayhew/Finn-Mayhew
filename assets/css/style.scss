@@ -25,7 +25,7 @@ a {
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     grid-gap: 20px;
     align-items: stretch;
-    }
+}
 .grid img {
     max-width: 100%;
 }
@@ -34,7 +34,14 @@ a {
     grid-template-columns: repeat(auto-fill, minmax(100px, 100px));
     grid-gap: 20px;
     align-items: stretch;
-    }
+}
 .icongrid img {
     max-width: 100%;
+}
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
 }

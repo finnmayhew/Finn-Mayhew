@@ -10,7 +10,7 @@
   </a>
 </main>
 
-<main class="icongrid">
+<main class="icongrid centered">
   <a href="https://www.instagram.com/finnmayhew_/">
     <img src="./assets/images/icons/instagram.png" alt="Instagram">
   </a>
