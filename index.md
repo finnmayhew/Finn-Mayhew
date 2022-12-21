@@ -1,4 +1,4 @@
-<main class="icongrid centered">
+<main class="icongrid">
   <a href="https://www.instagram.com/finnmayhew_/">
     <img src="./assets/images/icons/instagram.png" alt="Instagram">
   </a>
