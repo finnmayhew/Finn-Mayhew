@@ -16,6 +16,10 @@ My work with IceCube aims to help pin down some of the neutrino oscillation para
 
 Learn more [here](https://icecube.wisc.edu/science/icecube/).
 
+[Here's](https://philippeller.github.io/osc.html) a tool for visualizing neutrino oscillations.
+
+[Here's](https://user-web.icecube.wisc.edu/~lulu/globe_AR/webcity/ngc1068/) a tool for visualizing 10 years of up-going muon neutrinos detected by IceCube.
+
 ## Instrumentation traineeship
 
 Starting spring 2023, I will begin research in MSU's high-energy detector instrumentation traineeship program. Details to come!
