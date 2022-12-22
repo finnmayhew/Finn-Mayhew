@@ -1,10 +1,12 @@
 <div class="container">
-  <a href="https://www.instagram.com/finnmayhew_/">
-    <img src="./assets/images/icons/instagram.png" alt="Instagram">
-  </a>
-  <a href="https://mastodon.social/@finnmayhew">
-    <img src="./assets/images/icons/mastodon.png" alt="Mastodon">
-  </a>
+  <main class="icongrid">
+    <a href="https://www.instagram.com/finnmayhew_/">
+      <img src="./assets/images/icons/instagram.png" alt="Instagram">
+    </a>
+    <a href="https://mastodon.social/@finnmayhew">
+      <img src="./assets/images/icons/mastodon.png" alt="Mastodon">
+    </a>
+  </main>
 </div>
 
 <main class="grid">

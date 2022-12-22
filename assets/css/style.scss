@@ -38,7 +38,7 @@ a {
 }
 .icongrid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(75px, 75px));
+    grid-template-columns: repeat(auto-fill, minmax(15px, 150px));
     grid-gap: 20px;
     align-items: stretch;
     justify-content: center;
@@ -50,10 +50,7 @@ a {
 .container {
     display: grid;
     justify-content: center;
-    align-items: stretch;
     background: white;
     width: 50%;
     margin: 0 auto;
-    grid-template-columns: repeat(auto-fill, minmax(75px, 75px));
-    grid-gap: 20px;
 }
