@@ -1,6 +1,6 @@
-<h1>Music</h1>
+# Music
 
-<h2>Albums and EPs</h2>
+## Albums and EPs
 
 <main class="grid">
   <a href="https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king">
@@ -20,7 +20,7 @@
   </a>
 </main>
 
-<h2>Soundtracks</h2>
+## Soundtracks
 
 <main class="grid">
   <a href="https://distrokid.com/hyperfollow/finnmayhew/the-revelation-mission-original-game-soundtrack">
@@ -40,7 +40,7 @@
   </a>
 </main>
 
-<h2>Improv compilations</h2>
+## Improv compilations
 
 <main class="grid">
   <a href="https://distrokid.com/hyperfollow/finnmayhew/2021-synth-improvs">
@@ -66,6 +66,6 @@
   </a>
 </main>
 
-<h2>Other places</h2>
+## Other places
 
-<p>I have other music on <a href="https://soundcloud.com/finn_mayhew">SoundCloud</a> and at this <a href="https://youtube.com/playlist?list=PLQYp802x2h5lnPGwxipS3Gde2eYam1sCW">YouTube playlist</a>.</p>
+I have other music on [SoundCloud](https://soundcloud.com/finn_mayhew) and at this [YouTube playlist](https://youtube.com/playlist?list=PLQYp802x2h5lnPGwxipS3Gde2eYam1sCW).
