@@ -48,6 +48,8 @@ a {
     max-width: 100%;
 }
 .container {
+    display: grid;
+    justify-content: center;
     background: white;
     width: 50%;
     margin: 0 auto;
