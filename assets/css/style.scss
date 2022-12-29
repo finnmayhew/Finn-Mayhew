@@ -36,7 +36,8 @@ a {
     max-width: 100%;
 }
 .socials {
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 .socials a img {
     width: 100px;
