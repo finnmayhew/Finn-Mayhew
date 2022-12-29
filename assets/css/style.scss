@@ -39,7 +39,9 @@ a {
     display: flex;
     justify-content: center;
 }
+.socials a {
+    margin: 0 20px;
+}
 .socials a img {
-    width: 100px;
-    height: 100px;
+    max-width: 75px;
 }
