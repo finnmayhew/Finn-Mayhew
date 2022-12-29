@@ -35,16 +35,6 @@ a {
 .grid img {
     max-width: 100%;
 }
-.icongrid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(50px, 50px));
-    grid-gap: 20px;
-    align-items: stretch;
-    justify-content: center;
-}
-.icongrid img {
-    max-width: 100%;
-}
 .socials {
     text-align: center;
 }
