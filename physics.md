@@ -20,9 +20,9 @@ Learn more [here](https://icecube.wisc.edu/science/icecube/).
 
 [Here's](https://user-web.icecube.wisc.edu/~lulu/globe_AR/webcity/ngc1068/) a tool for visualizing 10 years of up-going muon neutrinos detected by IceCube.
 
-## Instrumentation traineeship
+## LIG Testing
 
-Starting spring 2023, I will begin research in MSU's high-energy detector instrumentation traineeship program. Details to come!
+As part of MSU's TRAIN-MI high-energy physics detector instrumentation traineeship program, under Dr. Kendall Mahn I'm creating and testing the properties of laser-induced graphene for potential use as a material for a field cage in a time projection chamber in space that would detect astrophysical gamma rays.
 
 ## NOνA
 
