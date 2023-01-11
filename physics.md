@@ -22,7 +22,7 @@ Learn more [here](https://icecube.wisc.edu/science/icecube/).
 
 ## LIG Testing
 
-As part of MSU's TRAIN-MI high-energy physics detector instrumentation traineeship program, under Dr. Kendall Mahn I'm creating and testing the properties of laser-induced graphene for potential use as a material for a field cage in a time projection chamber in space that would detect astrophysical gamma rays.
+As part of MSU's TRAIN-MI high-energy physics detector instrumentation traineeship program, under Dr. Kendall Mahn I'm creating and testing the properties of laser-induced graphene for potential use as a material for a field cage in a time projection chamber in space that would detect astrophysical gamma rays. Eventually we'll collaborate with researchers at SLAC on this.
 
 ## NOνA
 
