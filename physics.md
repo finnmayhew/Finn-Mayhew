@@ -1,6 +1,6 @@
 # Physics
 
-[My CV](https://drive.google.com/file/d/1yQzwlnJj1ycz4T_zf2YMDENvdketqPxl/view?usp=sharing)
+[My CV](https://drive.google.com/file/d/1GmbQdrn2zHFgOwxM8j917eYY3sZRiQ26/view?usp=share_link)
 
 ## IceCube
 
