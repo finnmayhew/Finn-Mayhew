@@ -5,6 +5,9 @@
   <a href="https://mastodon.social/@finnmayhew">
     <img src="./assets/images/icons/mastodon.png" alt="Mastodon">
   </a>
+  <a href="https://www.pinterest.com/finnmayhew_/">
+    <img src="./assets/images/icons/pinterest.png" alt="Pinterest">
+  </a>
 </div>
 
 <main class="grid">
