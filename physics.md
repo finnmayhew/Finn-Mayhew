@@ -12,7 +12,7 @@ For my PhD at Michigan State University, I'm working with MSU's IceCube group un
 
 IceCube is both a telescope and a detector. As a telescope, it uses elementary particles called neutrinos to see very high-energy happenings very far away. As a detector, it allows the collaboration to study the fundamental properties of neutrinos themselves.
 
-My work with IceCube aims to look for non-standard neutrino interactions (NSI) through the experiment's oscillations measurements, which look at neutrinos that originate in the atmosphere and travel through the Earth to the detector at the South Pole. NSI is part of beyond-the-standard-model physics (BSM).
+My work with IceCube aims to look for non-standard neutrino interactions (NSI) through the experiment's oscillations measurements, which look at neutrinos that originate in the atmosphere and travel through the Earth to the detector at the South Pole. NSI is a prediction of several beyond-the-standard-model (BSM) hypotheses.
 
 Learn more about IceCube in general [here](https://icecube.wisc.edu/science/icecube/), and wander through the notes that I'm taking to understand NSI [here](https://finnmayhew.github.io/NSI-knowledge-base/).
 
