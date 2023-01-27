@@ -12,17 +12,18 @@ For my PhD at Michigan State University, I'm working with MSU's IceCube group un
 
 IceCube is both a telescope and a detector. As a telescope, it uses elementary particles called neutrinos to see very high-energy happenings very far away. As a detector, it allows the collaboration to study the fundamental properties of neutrinos themselves.
 
-My work with IceCube aims to help pin down some of the neutrino oscillation parameters, which describe how neutrinos change their type as they travel. To do this, we look at neutrinos that originate in the atmosphere and travel through the Earth to the detector at the South Pole.
+My work with IceCube aims to look for non-standard neutrino interactions (NSI) through the experiment's oscillations measurements, which look at neutrinos that originate in the atmosphere and travel through the Earth to the detector at the South Pole. NSI is part of beyond-the-standard-model physics (BSM).
 
-Learn more [here](https://icecube.wisc.edu/science/icecube/).
+Learn more about IceCube in general [here](https://icecube.wisc.edu/science/icecube/), and wander through the notes that I'm taking to understand NSI [here](https://finnmayhew.github.io/NSI-knowledge-base/).
 
-[Here's](https://philippeller.github.io/osc.html) a tool for visualizing neutrino oscillations.
+Some fun visualizations:
 
-[Here's](https://user-web.icecube.wisc.edu/~lulu/globe_AR/webcity/ngc1068/) a tool for visualizing 10 years of up-going muon neutrinos detected by IceCube.
+- [Neutrino oscillations](https://philippeller.github.io/osc.html)
+- [10 years of up-going muon neutrinos detected by IceCube](https://user-web.icecube.wisc.edu/~lulu/globe_AR/webcity/ngc1068/)
 
-## LIG Testing
+## Laser-Induced Graphene Testing
 
-As part of MSU's TRAIN-MI high-energy physics detector instrumentation traineeship program, under Dr. Kendall Mahn I'm creating and testing the properties of laser-induced graphene for potential use as a material for a field cage in a time projection chamber in space that would detect astrophysical gamma rays. Eventually we'll collaborate with researchers at SLAC on this.
+As part of MSU's TRAIN-MI high-energy physics detector instrumentation traineeship program, under Dr. Kendall Mahn I'm creating and testing the properties of laser-induced graphene (LIG) for potential use as a material for a field cage in a time projection chamber in space that would detect astrophysical gamma rays. Eventually we'll collaborate with researchers at SLAC on this.
 
 ## NOνA
 
