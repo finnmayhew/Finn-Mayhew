@@ -14,7 +14,9 @@ IceCube is both a telescope and a detector. As a telescope, it uses elementary p
 
 My work with IceCube aims to look for non-standard neutrino interactions (NSI) through the experiment's oscillations measurements, which look at neutrinos that originate in the atmosphere and travel through the Earth to the detector at the South Pole. NSI is a beyond-the-standard-model-of-particle-physics (BSM) effect that is predicted by several hypotheses of the origin of neutrino mass.
 
-Learn more about IceCube in general [here](https://icecube.wisc.edu/science/icecube/), and wander through the notes that I'm taking to understand NSI [here](https://finnmayhew.github.io/NSI-knowledge-base/).
+- [Learn more about IceCube in general](https://icecube.wisc.edu/science/icecube/)
+- [Wander through the notes that I'm taking to understand NSI](https://finnmayhew.github.io/NSI-knowledge-base/)
+- [Watch my first guidance committee meeting talk, where I presented my research up to the point of joining the OscNext NSI team](https://youtu.be/i0pOrwiA0zM)
 
 Some fun visualizations:
 
