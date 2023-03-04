@@ -17,11 +17,8 @@ My work with IceCube aims to look for non-standard neutrino interactions (NSI) t
 - [Learn more about IceCube in general](https://icecube.wisc.edu/science/icecube/)
 - [Wander through the notes that I'm taking to understand NSI](https://finnmayhew.github.io/NSI-knowledge-base/)
 - [Watch my first guidance committee meeting talk, where I presented my research up to the point of joining the OscNext NSI team](https://youtu.be/i0pOrwiA0zM)
-
-Some fun visualizations:
-
-- [Neutrino oscillations](https://philippeller.github.io/osc.html)
-- [10 years of up-going muon neutrinos detected by IceCube](https://user-web.icecube.wisc.edu/~lulu/globe_AR/webcity/ngc1068/)
+- [Play with a neutrino oscillation visualizer](https://philippeller.github.io/osc.html)
+- [Look at 10 years of up-going muon neutrinos detected by IceCube](https://user-web.icecube.wisc.edu/~lulu/globe_AR/webcity/ngc1068/)
 
 ## Laser-Induced Graphene Testing
 
