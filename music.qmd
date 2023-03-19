@@ -1,6 +1,8 @@
 ## Albums and EPs
 
 ::: {layout-ncol="3"}
+[![](./images/album_art/Invitation.png){width="250"}](https://finnmayhew.bandcamp.com/track/invitation)
+
 [![](./images/album_art/Rose_and_the_Briar_King.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king)
 
 [![](./images/album_art/Dribble_Castle.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/dribble-castle)
