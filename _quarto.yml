@@ -3,15 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "temp"
+  title: "Finn Mayhew"
+  favicon: ./images/favicon.png
+  search: false
   navbar:
+    search: false
+    background: black
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: music.qmd
+        text: Music
+      - href: physics.qmd
+        text: Physics
+      - href: old_things.qmd
+        text: Old Things
+  page-footer:
+    center: 
+      - icon: instagram
+        href: https://www.instagram.com/finnmayhew_/
+      - icon: mastodon
+        href: https://mastodon.social/@finnmayhew
+      - icon: pinterest 
+        href: https://www.pinterest.com/finnmayhew_/
 
 format:
   html:
-    theme: cosmo
+    theme: [darkly, theme.scss]
     css: styles.css
     toc: true
