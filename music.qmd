@@ -1,0 +1,49 @@
+## Albums and EPs
+
+::: {layout-ncol="3"}
+[![](./images/album_art/Rose_and_the_Briar_King.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/rose-and-the-briar-king)
+
+[![](./images/album_art/Dribble_Castle.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/dribble-castle)
+
+[![](./images/album_art/Come_Home.jpeg){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/come-home)
+
+[![](./images/album_art/Unlikely_Escapes.jpg){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/unlikely-escapes)
+
+[![](./images/album_art/Camping.jpg){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/camping)
+:::
+
+## Soundtracks
+
+::: {layout-ncol="3"}
+[![](./images/album_art/The_Revelation_Mission.jpg){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/the-revelation-mission-original-game-soundtrack)
+
+[![](./images/album_art/Galactic_Gazette.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/galactic-gazette-original-game-soundtrack)
+
+[![](./images/album_art/Season_Five.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/season-five-original-game-soundtrack)
+
+[![](./images/album_art/Shift.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/shift-original-game-soundtrack-2)
+
+[![](./images/album_art/Return.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/return-original-game-soundtrack)
+:::
+
+## Improv compilations
+
+::: {layout-ncol="3"}
+[![](./images/album_art/2021.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/2021-synth-improvs)
+
+[![](./images/album_art/2020.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/2020-piano-and-synth-improvs)
+
+[![](./images/album_art/2019.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/2019-piano-improvs)
+
+[![](./images/album_art/2018.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/2018-piano-improvs)
+
+[![](./images/album_art/2017.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/2017-piano-improvs)
+
+[![](./images/album_art/2016.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/2016-piano-improvs)
+
+[![](./images/album_art/2015.png){width="250"}](https://distrokid.com/hyperfollow/finnmayhew/2015-piano-improvs)
+:::
+
+## Other places
+
+I have other music on [SoundCloud](https://soundcloud.com/finn_mayhew) and at this [YouTube playlist](https://youtube.com/playlist?list=PLQYp802x2h5lnPGwxipS3Gde2eYam1sCW).
