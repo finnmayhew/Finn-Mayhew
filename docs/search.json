@@ -81,6 +81,20 @@
     "href": "index.html",
     "title": "Finn Mayhew",
     "section": "",
-    "text": "Hi, welcome to my links and info site.\nNavigate via the page links above or the social links below.\nSchedule a 30-minute meeting or an hour-long meeting with me at these links. Or, here’s one for something non-work-related. I don’t know why you would do this through my website, but my calender app has this as a feature so I want to put it somewhere 😆"
+    "text": "Hi, welcome to my links and info site.\nNavigate via the page links above or the social links below."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Finn Mayhew",
+    "section": "",
+    "text": "30-minute meeting\nHour-long meeting"
+  },
+  {
+    "objectID": "schedule.html#non-work-related",
+    "href": "schedule.html#non-work-related",
+    "title": "Finn Mayhew",
+    "section": "Non-work-related",
+    "text": "Non-work-related\nNon-work-related"
   }
 ]

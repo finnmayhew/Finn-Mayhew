@@ -15,7 +15,9 @@ website:
       - href: physics.qmd
         text: Physics
       - href: old_things.qmd
-        text: Old Things
+        text: Old things
+      - href: schedule.qmd
+        text: Schedule with me
   page-footer:
     center: 
       - icon: instagram
