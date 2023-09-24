@@ -1,3 +1,17 @@
-Hi, welcome to my links and info site.
+## [Music](music.qmd)
 
-Navigate via the page links above or the social links below.
+## [Physics](physics.qmd)
+
+## [Old things](old_things.qmd)
+
+## [Schedule with me](schedule.qmd)
+
+## Socials
+
+### [Instagram](https://www.instagram.com/finnmayhew_/)
+
+### [Lapse](https://journal.lapse.app/friend_request?user_id=b49c6623-98cd-4eec-8fb7-2f59cdadca86)
+
+### [Mastodon](https://mastodon.social/@finnmayhew)
+
+### [Pinterest](https://www.pinterest.com/finnmayhew_/)
