@@ -2,9 +2,11 @@
 
 [Physics](physics.qmd)
 
-[Old things](old_things.qmd)
+[Sudoku](sudoku.qmd)
 
 [Schedule with me](schedule.qmd)
+
+[Old things](old_things.qmd)
 
 <hr>
 

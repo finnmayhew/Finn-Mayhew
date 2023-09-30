@@ -14,10 +14,12 @@ website:
         text: Music
       - href: physics.qmd
         text: Physics
-      - href: old_things.qmd
-        text: Old things
+      - href: sudoku.qmd
+        text: Sudoku
       - href: schedule.qmd
         text: Schedule with me
+      - href: old_things.qmd
+        text: Old things
   page-footer:
     center: 
       - icon: instagram
