@@ -84,6 +84,13 @@
     "text": "I have recently gotten interested in making sudokus. Solve them at the links below. I’ll order these newest at the top."
   },
   {
+    "objectID": "sudoku.html#lascaux-cave-9292023",
+    "href": "sudoku.html#lascaux-cave-9292023",
+    "title": "Finn Mayhew",
+    "section": "Lascaux Cave, 9/29/2023",
+    "text": "Lascaux Cave, 9/29/2023\n\n\n\n\n\n\n\n\n\nNormal sudoku rules apply.\nDigits within cages sum to the number indicated.\nDigits along a thermometer increase from the bulb end.\nThin lines form palindromes — that is, a digit some distance along a line from one end also appears the same distance along the line from the other end."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Finn Mayhew",
@@ -103,19 +110,5 @@
     "title": "Finn Mayhew",
     "section": "Non-work-related",
     "text": "Non-work-related\nNon-work-related"
-  },
-  {
-    "objectID": "sudoku.html#lascaux-cave",
-    "href": "sudoku.html#lascaux-cave",
-    "title": "Finn Mayhew",
-    "section": "Lascaux Cave",
-    "text": "Lascaux Cave\n\n\n\n\n\n\n\n\nSeptember 29, 2023\n\n\n\n\n\nNormal sudoku rules apply.\nDigits within cages sum to the number indicated.\nDigits along a thermometer increase from the bulb end.\nThin lines form palindromes — that is, a digit some distance along a line from one end also appears the same distance along the line from the other end."
-  },
-  {
-    "objectID": "sudoku.html#lascaux-cave-9292023",
-    "href": "sudoku.html#lascaux-cave-9292023",
-    "title": "Finn Mayhew",
-    "section": "Lascaux Cave, 9/29/2023",
-    "text": "Lascaux Cave, 9/29/2023\n\n\n\n\n\n\n\n\n\nNormal sudoku rules apply.\nDigits within cages sum to the number indicated.\nDigits along a thermometer increase from the bulb end.\nThin lines form palindromes — that is, a digit some distance along a line from one end also appears the same distance along the line from the other end."
   }
 ]
