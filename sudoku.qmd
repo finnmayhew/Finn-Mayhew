@@ -3,7 +3,7 @@ I have recently gotten interested in making sudokus. Solve them at the links bel
 ## Lascaux Cave, 9/29/2023
 
 ::: {layout-ncol="2"}
-[![](./images/sudoku/Lascaux%20Cave.svg){width="500"}](https://tinyurl.com/yo7y27zx)
+[![](./images/sudoku/Lascaux%20Cave.svg){width="500"}](https://tinyurl.com/yqfp3rwr)
 
 - Normal sudoku rules apply.
 - Digits within cages sum to the number indicated.
