@@ -81,7 +81,14 @@
     "href": "sudoku.html",
     "title": "Finn Mayhew",
     "section": "",
-    "text": "I have recently gotten interested in making sudokus. Solve them at the links below. I’ll order these newest at the top."
+    "text": "I have recently gotten interested in making sudokus. Solve them at the links below."
+  },
+  {
+    "objectID": "sudoku.html#domino-maze-9302023",
+    "href": "sudoku.html#domino-maze-9302023",
+    "title": "Finn Mayhew",
+    "section": "Domino Maze, 9/30/2023",
+    "text": "Domino Maze, 9/30/2023\n\n\n\n\n\n\n\n\n\nNormal sudoku rules apply.\nDigits separated by an “X” sum to 10.\nDigits separated by a “V” sum to 5.\nDigits separated by a white dot are consecutive."
   },
   {
     "objectID": "sudoku.html#lascaux-cave-9292023",

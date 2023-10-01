@@ -1,4 +1,14 @@
-I have recently gotten interested in making sudokus. Solve them at the links below. I'll order these newest at the top.
+I have recently gotten interested in making sudokus. Solve them at the links below.
+
+## Domino Maze, 9/30/2023
+::: {layout-ncol="2"}
+[![](./images/sudoku/Domino%20Maze.svg){width="500"}](https://tinyurl.com/yob8c4p7)
+
+- Normal sudoku rules apply.
+- Digits separated by an "X" sum to 10.
+- Digits separated by a "V" sum to 5.
+- Digits separated by a white dot are consecutive.
+:::
 
 ## Lascaux Cave, 9/29/2023
 
