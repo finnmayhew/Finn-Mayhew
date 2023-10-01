@@ -1,8 +1,8 @@
-I have recently gotten interested in making sudokus. Solve them at the links below.
+I have recently started making sudokus. Click on a puzzle to start solving it.
 
-## Domino Maze, 9/30/2023
+## Domino Tree, 9/30/2023
 ::: {layout-ncol="2"}
-[![](./images/sudoku/Domino%20Maze.svg){width="500"}](https://tinyurl.com/yob8c4p7)
+[![](./images/sudoku/Domino%20Tree.svg){width="500"}](https://tinyurl.com/ysukd4ee)
 
 - Normal sudoku rules apply.
 - Digits separated by an "X" sum to 10.
