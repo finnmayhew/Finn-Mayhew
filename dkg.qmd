@@ -1,0 +1,39 @@
+Devil's Kettle Games was a project by myself and Haley Carter.
+
+I wrote and scored the games, and Haley coded the first one and helped with the story for both.
+
+## Return
+
+![](./images/game_art/return.webp){width="250"}
+
+[Download](https://www.mediafire.com/file/tepd7c37dg3j8gm/return.jar)
+
+[Original soundtrack](https://finnmayhew.bandcamp.com/album/return-ost)
+
+If you want to go straight into Shift, read a summary of Return [here](return_summary.qmd).
+
+## Shift
+
+![](./images/game_art/shift.webp){width="250"}
+
+[Read](https://docs.google.com/document/d/10pBKov_Fv2sSo3L3BsJ316CDscgyMsvB5uL-ryephVg/edit?usp=sharing)
+
+[Original soundtrack](https://finnmayhew.bandcamp.com/album/shift-ost)
+
+### Context
+
+From 2017-2019, Shift was in development hell.
+
+In 2019, we decided to release the game as a Google Docs file.
+
+There's pseudocode to guide you though the intended logic of the gameplay:
+
+Unfortunately, you're going to have to keep track of a few variables yourself.
+
+The most notable of these is canReturn - see the instructions on page 6.
+
+Yellow text is links. When you see "continue here" in grey, the text "here" is a link.
+
+Tabbed in text is meant to be read only once.
+
+Click [here](https://finnmayhew.bandcamp.com/album/shift-ost) for the soundtrack while reading, [here](https://drive.google.com/drive/folders/0B9IWKw00kemkfmZwQWFNNFNOWGRDOFJLcURGeDdqb01hZGlMdkdNTm5oSzdQZzZrNGhTZlE?resourcekey=0-qh5uldhDsTf2Pymz-kIOaA&usp=sharing) for the images.

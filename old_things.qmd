@@ -18,12 +18,10 @@ My friend Joe and I used to make a podcast about media we enjoy called [Fools an
 
 ## Text-based games
 
-(links broken at the moment, moving these pages to this site within the next few days...)
-
 ::: {layout-ncol="2"}
-![](./images/game_art/shift.webp){width="250"}
+[![](./images/game_art/return.webp){width="250"}](dkg.qmd)
 
-![](./images/game_art/return.webp){width="250"}
+[![](./images/game_art/shift.webp){width="250"}](dkg.qmd)
 :::
 
 ## Minecraft maps
