@@ -123,7 +123,7 @@
     "href": "dkg.html#shift",
     "title": "Finn Mayhew",
     "section": "Shift",
-    "text": "Shift\n\nRead\nOriginal soundtrack\n\nContext\nFrom 2017-2019, Shift was in development hell.\nIn 2019, we decided to release the game as a Google Docs file.\nThere’s pseudocode to guide you though the intended logic of the gameplay:\nUnfortunately, you’re going to have to keep track of a few variables yourself.\nThe most notable of these is canReturn - see the instructions on page 6.\nYellow text is links. When you see “continue here” in grey, the text “here” is a link.\nTabbed in text is meant to be read only once.\nClick here for the soundtrack while reading, here for the images."
+    "text": "Shift\n\nRead\nOriginal soundtrack\n\nContext\nFrom 2017-2019, Shift was in development hell.\nIn 2019, we decided to release the game as a Google Docs file.\nThere’s pseudocode to guide you though the intended logic of the gameplay:\nUnfortunately, you’re going to have to keep track of a few variables yourself.\nThe most notable of these is canReturn - see the instructions on page 6.\nYellow text is links. When you see “continue here” in grey, the text “here” is a link.\nTabbed-in text is meant to be read only once.\nClick here for the soundtrack while reading, here for the images."
   },
   {
     "objectID": "schedule.html",
