@@ -20,6 +20,6 @@ She <span style="color:#ffff00">returns</span> to the clearing and walks to the 
 
 She <span style="color:#ffff00">jumps</span>.
 
-<span style="color:#00acff">Quincey wakes up in a lanter-lit cavern,<br>and walks into a passageway.</span>
+<span style="color:#00acff">Quincey wakes up in a lantern-lit cavern,<br>and walks into a passageway.</span>
 
 <span style="color:#00acff">She feels a powerful sense of fulfillment.</span>
