@@ -18,10 +18,12 @@ My friend Joe and I used to make a podcast about media we enjoy called [Fools an
 
 ## Text-based games
 
-::: {layout-ncol="2"}
-[![](./images/game_art/shift.webp){width="250"}](https://devilskettle.wixsite.com/games/shift)
+(links broken at the moment, moving these pages to this site within the next few days...)
 
-[![](./images/game_art/return.webp){width="250"}](https://devilskettle.wixsite.com/games/return)
+::: {layout-ncol="2"}
+![](./images/game_art/shift.webp){width="250"}
+
+![](./images/game_art/return.webp){width="250"}
 :::
 
 ## Minecraft maps
