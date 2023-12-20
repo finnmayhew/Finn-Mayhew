@@ -34,6 +34,6 @@ The most notable of these is canReturn - see the instructions on page 6.
 
 Yellow text is links. When you see "continue here" in grey, the text "here" is a link.
 
-Tabbed in text is meant to be read only once.
+Tabbed-in text is meant to be read only once.
 
 Click [here](https://finnmayhew.bandcamp.com/album/shift-ost) for the soundtrack while reading, [here](https://drive.google.com/drive/folders/0B9IWKw00kemkfmZwQWFNNFNOWGRDOFJLcURGeDdqb01hZGlMdkdNTm5oSzdQZzZrNGhTZlE?resourcekey=0-qh5uldhDsTf2Pymz-kIOaA&usp=sharing) for the images.
