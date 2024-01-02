@@ -81,7 +81,14 @@
     "href": "sudoku.html",
     "title": "Finn Mayhew",
     "section": "",
-    "text": "I have recently started making sudokus. Click on a puzzle to start solving it."
+    "text": "Click on a puzzle to start solving it."
+  },
+  {
+    "objectID": "sudoku.html#harpers-ferry-sudoku-122024",
+    "href": "sudoku.html#harpers-ferry-sudoku-122024",
+    "title": "Finn Mayhew",
+    "section": "Harpers Ferry Sudoku, 1/2/2024",
+    "text": "Harpers Ferry Sudoku, 1/2/2024\n\n\n\n\n\n\n\n\n\nNormal sudoku rules apply.\nAdjacent digits on an orange Dutch Whispers line differ by at least four.\nAdjacent digits on a green German Whispers line differ by at least 5.\nWithin cages, digits do not repeat and sum to the indicated value.\nDigits on the thermometer increase from the bulb end.\nThe digit in the shaded square is even."
   },
   {
     "objectID": "sudoku.html#domino-tree-9302023",

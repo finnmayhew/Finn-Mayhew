@@ -1,4 +1,16 @@
-I have recently started making sudokus. Click on a puzzle to start solving it.
+Click on a puzzle to start solving it.
+
+## Harpers Ferry Sudoku, 1/2/2024
+::: {layout-ncol="2"}
+[![](./images/sudoku/Harpers%20Ferry%20Sudoku.svg){width="500"}](http://tinyurl.com/ywnhsbcm)
+
+- Normal sudoku rules apply.
+- Adjacent digits on an orange Dutch Whispers line differ by at least four.
+- Adjacent digits on a green German Whispers line differ by at least 5.
+- Within cages, digits do not repeat and sum to the indicated value.
+- Digits on the thermometer increase from the bulb end.
+- The digit in the shaded square is even.
+:::
 
 ## Domino Tree, 9/30/2023
 ::: {layout-ncol="2"}
