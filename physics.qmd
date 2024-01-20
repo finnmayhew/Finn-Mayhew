@@ -10,13 +10,12 @@ For my PhD at Michigan State University, I'm working with MSU's IceCube group un
 
 IceCube is both a telescope and a detector. As a telescope, it uses elementary particles called neutrinos to see very high-energy happenings very far away. As a detector, it allows the collaboration to study the fundamental properties of neutrinos themselves.
 
-My work with IceCube aims to look for non-standard neutrino interactions (NSI) through the experiment's oscillations measurements, which look at neutrinos that originate in the atmosphere and travel thr
-ough the Earth to the detector at the South Pole. NSI is a beyond-the-standard-model-of-particle-physics (BSM) effect that is predicted by several hypotheses of the origin of neutrino mass. Below is a graphic that outlines the analysis procedure.
+My work with IceCube aims to look for signatures in IceCube data of neutrinos interacting with the Earth via particles that we've never seen before. For a more technical description, here's an abstract for my contribution to the 2024 APS April meeting:
 
-![](images/NSI%20analysis%20overview.svg)
+> The IceCube Neutrino Observatory is a cubic-kilometer ice Cherenkov detector at the South Pole designed to detect neutrinos in the GeV to PeV energy range. Its in-ice PMT array includes DeepCore, a sub-detector specially instrumented for the detection of GeV-scale neutrinos. DeepCore detects neutrinos that originate in interactions of cosmic rays with the Earth's atmosphere and travel long distances through the planet to interact in the South Pole's glacial ice. These neutrinos forward scatter off charged fermions along their paths, which modifies their effective oscillation parameters. If a portion of these interactions are via particles outside of the Standard Model, the strength of such interactions can be probed by analyzing the impact of the interactions on the measurement of neutrino oscillations with DeepCore. An ongoing IceCube analysis aims to place competitive constraints on the strength of non-Standard neutrino interactions using 9.3 years of DeepCore data.
 
-- [Learn more about IceCube in general](https://icecube.wisc.edu/science/icecube/)
-- [Wander through the notes that I'm taking to understand NSI](https://finnmayhew.github.io/NSI-knowledge-base/)
+- [Learn more about IceCube](https://icecube.wisc.edu/science/icecube/)
+- [Learn more about IceCube at MSU](https://pa.msu.edu/high-energy-physics/icecube-experiment/index.aspx)
 - [Watch my first guidance committee meeting talk, where I presented my research up to the point of joining the OscNext NSI team](https://youtu.be/yqfUC1sKiHc)
 - [Play with a neutrino oscillation visualizer](https://philippeller.github.io/osc.html)
 - [Look at 10 years of up-going muon neutrinos detected by IceCube](https://user-web.icecube.wisc.edu/~lulu/globe_AR/webcity/ngc1068/)
