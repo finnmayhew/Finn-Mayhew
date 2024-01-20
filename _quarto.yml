@@ -8,7 +8,8 @@ website:
   search: false
   navbar:
     search: false
-    background: black
+    background: white
+    foreground: "#675ae8"
     left:
       - href: music.qmd
         text: Music
@@ -23,6 +24,6 @@ website:
 
 format:
   html:
-    theme: [darkly, theme.scss]
+    theme: [flatly, theme.scss]
     css: styles.css
     toc: true
