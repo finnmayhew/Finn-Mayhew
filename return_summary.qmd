@@ -1,3 +1,14 @@
+<html>
+<head>
+<style>
+body {
+  background-color: black;
+  color: white;
+}
+</style>
+</head>
+</html>  
+
 Quincey is a teenager in high school.
 
 One day, she <span style="color:#ffff00">runs</span> out of her school and into the woods.
