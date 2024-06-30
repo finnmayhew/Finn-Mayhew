@@ -6,6 +6,8 @@ I wrote and scored the games, and Haley coded the first one and helped with the 
 
 ![](./images/game_art/return.webp){width="250"}
 
+*Content warnings: unreality throughout, text depiction of something resembling suicide*
+
 [Download](https://www.mediafire.com/file/tepd7c37dg3j8gm/return.jar)
 
 [Original soundtrack](https://finnmayhew.bandcamp.com/album/return-ost)
@@ -15,6 +17,8 @@ If you want to go straight into Shift, read a summary of Return [here](return_su
 ## Shift
 
 ![](./images/game_art/shift.webp){width="250"}
+
+*Content warnings: unreality throughout, missing person, description of grief following something resembling family member death*
 
 [Read](https://docs.google.com/document/d/10pBKov_Fv2sSo3L3BsJ316CDscgyMsvB5uL-ryephVg/edit?usp=sharing)
 
